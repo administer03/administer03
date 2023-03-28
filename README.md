@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taned Singlor
+Hi there!👋 My name is Taned (News) Singlor
 =====================================================================================================================================
 
 Machine Learning Engineer & Data Science
 ----------------------------------------
 
-Hi there! I'm News, a Computer Science graduate from Chiang Mai University, currently pursuing a Master's degree in the same field. My passion lies in AI and Machine Learning, particularly in Reinforcement Learning, Machine Learning for Investment/Crypto Trading Bots, Sentiment Analysis, Natural language processing and Image Processing. I am also a Research Assistant at the National Astronomical Research Institute of Thailand (NARIT), where I classify images of astronomical objects and develop object detection algorithms for detecting globular clusters. My research on "Identification of Extragalactic Globular Clusters Using Machine Learning Techniques" was published in IEEE. I have experience developing Android applications, such as the UNO game. In terms of competitions, I have participated in various AI-related events, including: 
+I'm a Computer Science graduate from Chiang Mai University, currently pursuing a Master's degree in the same field. My passion lies in AI and Machine Learning, particularly in Reinforcement Learning, Machine Learning for Investment/Crypto Trading Bots, Sentiment Analysis, Natural language processing and Image Processing. I am also a Research Assistant at the National Astronomical Research Institute of Thailand (NARIT), where I classify images of astronomical objects and develop object detection algorithms for detecting globular clusters. My research on "Identification of Extragalactic Globular Clusters Using Machine Learning Techniques" was published in IEEE. I have experience developing Android applications, such as the UNO game. In terms of competitions, I have participated in various Data Science/AI-related events, including: 
 * Prop-Insure-Tech Hackathon (2021) - Final Round 
 * AI.Dep for Thai Industry (2022) - 1st Place 🏆
 * Thailand AI Ethics Guideline (2022) - 1st Place as a Developer 🏆
@@ -19,6 +19,7 @@ Feel free to check out my GitHub profile to see some of my projects and contribu
 * 🧠  I'm learning Transformers, Transfer learning, Question Answering also Zero-Shot Classification
 * ⚡  Feel free to join me in Dota2 if you're interested!
 
+![](https://komarev.com/ghpvc/?username=administer03&color=red&style=&style=flat)
 <a href="https://www.github.com/administer03" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/administer03?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
 
@@ -68,12 +69,5 @@ Tools
 
 <p align="left"> <a href="https://www.github.com/administer03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/administer03"><img src="https://github-readme-stats.vercel.app/api?username=administer03&show_icons=true&hide=prs,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="administer03's GitHub stats" /></a>
-
-<a href="http://www.github.com/administer03"><img src="https://github-readme-streak-stats.herokuapp.com/?user=administer03&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/administer03" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=administer03&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Status
+[![News Taned's github stats](https://github-readme-stats.vercel.app/api?username=administer03&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=administer03&layout=compact&langs_count=6&theme=dracula)](https://github.com/administer03)
