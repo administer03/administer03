@@ -12,9 +12,11 @@ Hi there! I'm News, a Computer Science graduate from Chiang Mai University, curr
 
 Feel free to check out my GitHub profile to see some of my projects and contributions!
 
+----------------------------------------
+
 * 🌍  I'm based in Chiang Mai, Thailand
 * ✉️  You can contact me at [news1976@hotmail.com](mailto:news1976@hotmail.com)
-* 🧠  I'm learning Transformers and transfer learning and Question Answering
+* 🧠  I'm learning Transformers and transfer learning. Also, Question Answering
 * ⚡  Feel free to join me in Dota2 if you're interested!
 
 <a href="https://www.github.com/administer03" target="_blank" rel="noreferrer"><img
