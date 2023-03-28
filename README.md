@@ -4,11 +4,25 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning Engineer & Data Science
 ----------------------------------------
 
-Hi there! I'm News, a Computer Science graduate from Chiang Mai University, currently pursuing a Master's degree in the same field. My passion lies in AI and Machine Learning, particularly in Reinforcement Learning, Machine Learning for Investment/Crypto Trading Bots, Sentiment Analysis, Natural language processing and Image Processing. I am also a Research Assistant at the National Astronomical Research Institute of Thailand (NARIT), where I classify images of astronomical objects and develop object detection algorithms for detecting globular clusters. My research on "Identification of Extragalactic Globular Clusters Using Machine Learning Techniques" was published in IEEE. My coding skills include Python, C/C++, Java, and R, and I have experience developing Android applications, such as the UNO game. I frequently use tools such as GitHub, Weka, Minitab, PyTorch, Keras and Scikit-learn. In terms of competitions, I have participated in various AI-related events, including: 
+Hi there! I'm News, a Computer Science graduate from Chiang Mai University, currently pursuing a Master's degree in the same field. My passion lies in AI and Machine Learning, particularly in Reinforcement Learning, Machine Learning for Investment/Crypto Trading Bots, Sentiment Analysis, Natural language processing and Image Processing. I am also a Research Assistant at the National Astronomical Research Institute of Thailand (NARIT), where I classify images of astronomical objects and develop object detection algorithms for detecting globular clusters. My research on "Identification of Extragalactic Globular Clusters Using Machine Learning Techniques" was published in IEEE. I have experience developing Android applications, such as the UNO game. In terms of competitions, I have participated in various AI-related events, including: 
 * Prop-Insure-Tech Hackathon (2021) - Final Round 
-* AI.Dep for Thai Industry (2022) - 1st Place 
-* Thailand AI Ethics Guideline (2022) - 1st Place as a Developer 
+* AI.Dep for Thai Industry (2022) - 1st Place 🏆
+* Thailand AI Ethics Guideline (2022) - 1st Place as a Developer 🏆
 * Super AI Engineer Season 3 (Ongoing) 
+
+
+#### Machine Learning
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 	
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+#### Data Science
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 	
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23d9ead3.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 Feel free to check out my GitHub profile to see some of my projects and contributions!
 
