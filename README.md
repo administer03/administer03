@@ -9,6 +9,7 @@ Hi there! I'm News, a Computer Science graduate from Chiang Mai University, curr
 * AI.Dep for Thai Industry (2022) - 1st Place 
 * Thailand AI Ethics Guideline (2022) - 1st Place as a Developer 
 * Super AI Engineer Season 3 (Ongoing) 
+
 Feel free to check out my GitHub profile to see some of my projects and contributions!
 
 * 🌍  I'm based in Chiang Mai, Thailand
