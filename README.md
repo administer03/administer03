@@ -11,7 +11,7 @@ I'm a Computer Science graduate from Chiang Mai University, currently pursuing a
 * Super AI Engineer Season 3 (Ongoing) 
 
 My Publications
-* [Identification of Extragalactic Globular Clusters Using Machine Learning Techniques](https://ieeexplore.ieee.org/document/9795384) (Published on IEEE)
+* [Identification of Extragalactic Globular Clusters Using Machine Learning Techniques](https://ieeexplore.ieee.org/document/9795384) (2022)
 * Globular Cluster Detection in the M33 Using Multi-view Learning (Coming Soon)
 
 Feel free to check out my GitHub profile to see some of my projects and contributions!
