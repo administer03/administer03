@@ -4,11 +4,15 @@ Hi there!👋 My name is Taned (News) Singlor
 Machine Learning Engineer & Data Scientist
 ----------------------------------------
 
-I'm a Computer Science graduate from Chiang Mai University, currently pursuing a Master's degree in the same field. My passion lies in AI and Machine Learning, particularly in Reinforcement Learning, Machine Learning for Investment/Crypto Trading Bots, Sentiment Analysis, Natural language processing and Image Processing. I am also a Research Assistant at the National Astronomical Research Institute of Thailand (NARIT), where I classify images of astronomical objects and develop object detection algorithms for detecting globular clusters. My research on "Identification of Extragalactic Globular Clusters Using Machine Learning Techniques" was published in IEEE. I have experience developing Android applications, such as the UNO game. In terms of competitions, I have participated in various Data Science/AI-related events, including: 
+I'm a Computer Science graduate from Chiang Mai University, currently pursuing a Master's degree in the same field. My passion lies in AI and Machine Learning, particularly in Reinforcement Learning, Machine Learning for Investment/Crypto Trading Bots, Sentiment Analysis, Natural language processing and Image Processing. I am also a Research Assistant at the National Astronomical Research Institute of Thailand (NARIT), where I classify images of astronomical objects and develop object detection algorithms for detecting globular clusters. I have experience developing Android applications, such as the UNO game. In terms of competitions, I have participated in various Data Science/AI-related events, including: 
 * Prop-Insure-Tech Hackathon (2021) - Final Round 
 * AI.Dep for Thai Industry (2022) - 1st Place 🏆
 * Thailand AI Ethics Guideline (2022) - 1st Place as a Developer 🏆
 * Super AI Engineer Season 3 (Ongoing) 
+
+My Publications
+* [Identification of Extragalactic Globular Clusters Using Machine Learning Techniques](https://ieeexplore.ieee.org/document/9795384) (Published on IEEE)
+* Globular Cluster Detection in the M33 Using Multi-view Learning (Coming Soon)
 
 Feel free to check out my GitHub profile to see some of my projects and contributions!
 
