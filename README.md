@@ -9,6 +9,7 @@ I'm a Computer Science graduate from Chiang Mai University, currently pursuing a
 * AI.Dep for Thai Industry (2022) - 1st Place 🏆
 * Thailand AI Ethics Guideline (2022) - 1st Place as a Developer 🏆
 * Super AI Engineer Season 3 (2023) - 2nd Place Medal 🥈
+* Capital Market Datathon (Ongoing)
 
 My Publications
 * [Identification of Extragalactic Globular Clusters Using Machine Learning Techniques](https://ieeexplore.ieee.org/document/9795384) (2022)
