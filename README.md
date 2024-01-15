@@ -10,6 +10,7 @@ I'm a Computer Science graduate from Chiang Mai University, currently pursuing a
 * Thailand AI Ethics Guideline (2022) - 1st Place as a Developer 🏆
 * Super AI Engineer Season 3 (2023) - 2nd Place Medal 🥈
 * Capital Market Datathon (2023) - 3rd Place bronze 🥉
+* TechBite 5.0 (on going) 
 
 My Publications
 * [Identification of Extragalactic Globular Clusters Using Machine Learning Techniques](https://ieeexplore.ieee.org/document/9795384) (2022)
@@ -21,7 +22,7 @@ Feel free to check out my GitHub profile to see some of my projects and contribu
 
 * 🌍  I'm based in Chiang Mai, Thailand
 * ✉️  You can contact me at [news1976@hotmail.com](mailto:news1976@hotmail.com)
-* 🧠  I'm learning Transformers, Transfer learning, Question Answering also Zero-Shot Classification
+* 🧠  I'm learning Transformers, Question Answering, machine learning design also Zero-Shot Classification
 * ⚡  Feel free to join me in Dota2 if you're interested!
 
 ![](https://komarev.com/ghpvc/?username=administer03&color=red&style=&style=flat)
