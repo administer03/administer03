@@ -10,7 +10,7 @@ I'm a Computer Science graduate from Chiang Mai University, currently pursuing a
 * Thailand AI Ethics Guideline (2022) - 1st Place as a Developer 🏆
 * Super AI Engineer Season 3 (2023) - 2nd Place Medal 🥈
 * Capital Market Datathon (2023) - 3rd Place bronze 🥉
-* Thammasat Startup Contest 2024 - 1st Place 🏆
+* Thammasat Startup Contest (2024) - 1st Place 🏆
 * TechBite 5.0 (on going) 
 
 My Publications
