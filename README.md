@@ -4,18 +4,19 @@ Hi there!👋 My name is Taned (News) Singlor
 Machine Learning Engineer & Data Scientist
 ----------------------------------------
 
-I'm a Computer Science graduate from Chiang Mai University, currently pursuing a Master's degree in the same field. My passion lies in AI and Machine Learning, particularly in Reinforcement Learning, Machine Learning for Investment/Crypto Trading Bots, Sentiment Analysis, Natural language processing and Image Processing. I am also a Research Assistant at the National Astronomical Research Institute of Thailand (NARIT), where I classify images of astronomical objects and develop object detection algorithms for detecting globular clusters. I have participated in various Data Science/AI-related events, including: 
+I have recently completed my Master's degree in Computer Science. My passion lies in AI and Machine Learning, focusing on Reinforcement Learning, Machine Learning for Investment and Crypto Trading Bots, Sentiment Analysis, Natural Language Processing, and Image Processing. I have participated in various Data Science and AI-related events, including: 
 * Prop-Insure-Tech Hackathon (2021) - Final Round 
 * AI.Dep for Thai Industry (2022) - 1st Place 🏆
 * Thailand AI Ethics Guideline (2022) - 1st Place as a Developer 🏆
 * Super AI Engineer Season 3 (2023) - 2nd Place Medal 🥈
 * Capital Market Datathon (2023) - 3rd Place bronze 🥉
 * Thammasat Startup Contest (2024) - 1st Place 🏆
-* TechBite 5.0 (on going) 
+* Startup Thailand League (2024) - (Ongoing)
 
 My Publications
 * [Identification of Extragalactic Globular Clusters Using Machine Learning Techniques](https://ieeexplore.ieee.org/document/9795384) (2022)
 * [Globular Cluster Detection in M33 Using Multiple Views Representation Learning](https://www.springerprofessional.de/globular-cluster-detection-in-m33-using-multiple-views-represent/26304340) (2023)
+  * [repository](https://github.com/administer03/YOLO-GC)
 
 Feel free to check out my GitHub profile to see some of my projects and contributions!
 
