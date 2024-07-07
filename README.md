@@ -1,5 +1,8 @@
-Hi there!👋 My name is Taned (News) Singlor
-=====================================================================================================================================
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=ffffff&center=true&multiline=true&width=500&height=80&lines=👋+My+name+is+Taned+(News)+Singlor" alt="Typing SVG" />
+  </a>
+</p>
 
 Machine Learning Engineer & Data Scientist
 ----------------------------------------
@@ -30,6 +33,9 @@ Feel free to check out my GitHub profile to see some of my projects and contribu
 ![](https://komarev.com/ghpvc/?username=administer03&color=red&style=&style=flat)
 <a href="https://www.github.com/administer03" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/administer03?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+
+### My Personal Stats
+[![News Taned's github stats](https://github-readme-stats.vercel.app/api?username=administer03&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=administer03&layout=compact&langs_count=6&theme=dracula)](https://github.com/administer03)
 
 ### Skills
 
@@ -74,8 +80,7 @@ Tools
 
 
 ### Socials
-
-<p align="left"> <a href="https://www.github.com/administer03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-### Status
-[![News Taned's github stats](https://github-readme-stats.vercel.app/api?username=administer03&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=administer03&layout=compact&langs_count=6&theme=dracula)](https://github.com/administer03)
+  <a href="https://www.linkedin.com/in/taned-singlor/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+  </a>
+</p>
