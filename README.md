@@ -7,7 +7,7 @@
 Machine Learning Engineer & Data Scientist
 ----------------------------------------
 
-I have recently completed my Master's degree in Computer Science. My passion lies in AI and Machine Learning, focusing on Reinforcement Learning, Machine Learning for Investment and Crypto Trading Bots, Sentiment Analysis, Natural Language Processing, and Image Processing. I have participated in various Data Science and AI-related events, including: 
+I have recently completed my Master's degree in Computer Science. My passion lies in AI and Machine Learning, focusing on Reinforcement Learning, Machine Learning for Investment and Crypto Trading Bots, Sentiment Analysis, Natural Language Processing, and Image Processing. I have actively participated in a range of Data Science, AI, hackathons, and startup competitions, including:
 * Prop-Insure-Tech Hackathon (2021) - Final Round 
 * AI.Dep for Thai Industry (2022) - 1st Place 🏆
 * Thailand AI Ethics Guideline (2022) - 1st Place as a Developer 🏆
