@@ -14,7 +14,7 @@ I have recently completed my Master's degree in Computer Science. My passion lie
 * Super AI Engineer Season 3 (2023) - 2nd Place Medal 🥈
 * Capital Market Datathon (2023) - 3rd Place bronze 🥉
 * Thammasat Startup Contest (2024) - 1st Place 🏆
-* Startup Thailand League (2024) - (Ongoing)
+* Startup Thailand League (2024) - 2nd Place 🥈
 
 My Publications
 * [Identification of Extragalactic Globular Clusters Using Machine Learning Techniques](https://ieeexplore.ieee.org/document/9795384) (2022)
