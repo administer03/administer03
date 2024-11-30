@@ -30,8 +30,6 @@ Feel free to check out my GitHub profile to see some of my projects and contribu
 * 🧠  I'm learning Transformers, Question Answering, machine learning design also Zero-Shot Classification
 
 ![](https://komarev.com/ghpvc/?username=administer03&color=red&style=&style=flat)
-<a href="https://www.github.com/administer03" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/administer03?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
 
 ### My Personal Stats
 [![News Taned's github stats](https://github-readme-stats.vercel.app/api?username=administer03&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=administer03&layout=compact&langs_count=6&theme=dracula)](https://github.com/administer03)
