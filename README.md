@@ -27,7 +27,6 @@ Feel free to check out my GitHub profile to see some of my projects and contribu
 
 * 🌍  I'm based in Chiang Mai, Thailand
 * ✉️  You can contact me at [news1976@hotmail.com](mailto:news1976@hotmail.com)
-* 🧠  I'm learning Transformers, Question Answering, machine learning design also Zero-Shot Classification
 
 ![](https://komarev.com/ghpvc/?username=administer03&color=red&style=&style=flat)
 
